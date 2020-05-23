@@ -14,3 +14,11 @@ footer {
 .tituloRojo {
     color: red;
 }
+
+.fondoPropio {
+    background-color: darkslategray;
+}
+
+.letaPropia {
+    font-family: 'Sedgwick Ave', cursive;
+}
